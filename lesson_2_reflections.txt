@@ -6,4 +6,7 @@ How is staging area different from the working directory and the repository? Wha
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	When creating different versions of the same project with only small changes, but with different outcome
+
+How do the diagrams help you visualize the branch structure?
+	they show all the commits done before and after splitting of into branches
 	
