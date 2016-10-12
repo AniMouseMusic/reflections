@@ -12,4 +12,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of mergin two branches together? Why do we represent it in the diagram the way we do?
 	it adds all the code together in a working order
+What are the pros and cons of gits autimatic mergin vs always doing merges manually
+	in manual mode you will know what and when you have done something, in autimatic, merging may happen without you wanting it
 	
